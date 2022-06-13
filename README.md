@@ -9,3 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 庫存管理
 領用管理
 領用審核
+### Start
+``` $npm i ```
+### Start React App
+``` $npm start ```
