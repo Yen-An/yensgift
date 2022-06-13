@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## 使用Material UI
 [Get started](https://mui.com/)
 ## 搭配我的server api
-[Server api] (https://github.com/Yen-An/myserverapi)
+[Server api](https://github.com/Yen-An/myserverapi)
 ### 功能
 登入驗證(JWT&token)
 庫存管理
